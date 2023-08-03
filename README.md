@@ -12,3 +12,6 @@ A simulacrum of the NHS Secure Data Environment, to facilitate external code dev
 * Spark
     * Doesn't support Databricks notebooks ❌
     * Colab compatible ✅
+
+# Roadmap
+1. [ ] Synthetic GDPPR. 
