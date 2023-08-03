@@ -6,6 +6,9 @@ A simulacrum of the NHS Secure Data Environment, to facilitate external code dev
 2. Synthetic data
     1. Hospital Episode Statistics: See [NHS Digital: Artificial data pilot](https://digital.nhs.uk/services/artificial-data). 
 
+# Environment
+* Start/stop codespace at: https://github.com/codespaces. 
+
 # Platforms
 * [Databricks Community Edition](https://community.cloud.databricks.com/) ❌. 
     * Doesn't support Git. 
@@ -13,7 +16,8 @@ A simulacrum of the NHS Secure Data Environment, to facilitate external code dev
     * Supports Spark
     * Poor Github integration - can open/save, but can't easily *sync*. 
     * Doesn't persist?
-* Github codespaces
+* Github codespaces ✅  
+    * https://aka.ms/configure-codespace. 
     * https://github.com/education/codespaces-project-template-py. 
 * Local
     * Environment: pip, conda, ? poetry. 
