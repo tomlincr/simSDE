@@ -4,8 +4,7 @@ A simulacrum of the NHS Secure Data Environment, to facilitate external code dev
 # MVP
 1. Environment
 2. Synthetic data
-    1. Hospital Episode Statistics
-    2. GDPPR
+    1. Hospital Episode Statistics: See [NHS Digital: Artificial data pilot](https://digital.nhs.uk/services/artificial-data). 
 
 # Platforms
 * [Databricks Community Edition](https://community.cloud.databricks.com/)
