@@ -3,6 +3,8 @@ A simulacrum of the [NHS Secure Data Environment](https://digital.nhs.uk/service
 
 NB this is unofficial, and not endorsed by NHS England or HDR UK / BHF Data Science Centre.  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tomlincr/simSDE/blob/main/HES_APC_playground.ipynb)
+
 # MVP
 1. 🧑‍💻 Environment - Google Colab based for ease of use.
 2. 💿 Synthetic data
